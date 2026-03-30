@@ -123,9 +123,9 @@ architect = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=debinkl2&show_icons=true&hide_border=true&title_color=e8b84b&icon_color=c8962a&text_color=a8c4e8&bg_color=0d1117&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=debinkl2&theme=github_dark" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debinkl2&layout=compact&hide_border=true&title_color=e8b84b&text_color=a8c4e8&bg_color=0d1117&langs_count=8" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debinkl2&theme=github_dark" />
 
 </div>
 
