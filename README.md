@@ -15,7 +15,7 @@
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-debojyotidas.com-e8b84b?style=for-the-badge&logo=firefox&logoColor=000)](https://debojyotidas.com)
 &nbsp;
-[![Live AI](https://img.shields.io/badge/🟢_Live_AI-market--eye-4ade80?style=for-the-badge)](https://market-eye.duckdns.org)
+[![Live AI](https://img.shields.io/badge/🟢_Live_AI-market--eye-4ade80?style=for-the-badge)](https://globalwatch.debojyotidas.com)
 
 </div>
 
@@ -36,7 +36,6 @@ architect = {
     "cloud"       : ["AWS", "Azure", "GCP"],
     "impact"      : "€60K+ saved · 40% effort reduced · 500+ users",
     "awards"      : ["🏆 WAVE Award 2025", "⚡ AI Hackathon Winner 2025"],
-    "open_to"     : "Dublin 🇮🇪 · Amsterdam 🇳🇱 · Madrid 🇪🇸 · Germany 🇩🇪",
 }
 ```
 
@@ -144,13 +143,33 @@ architect = {
 <tr>
 <td width="55%" valign="top">
 
-### 🟢 &nbsp;Autonomous Market Intelligence Platform
-> **Personal · Live Production**
+### 🟢 &nbsp;Autonomous Intelligence Platform
+> **Global Watch · Live**
 
-Architected a **Digital Worker** for high-frequency market intelligence using **OpenClaw** + **TimescaleDB**. Multi-agent pipeline via **Crew AI** and **Google ADK** for real-time data ingestion. Deployed on **AWS EC2** with Nginx, SSL, PM2 — 99.9% uptime.
+- The Brains: An orchestrated swarm of 12 distinct AI models using OpenClaw AI agent framework handling specific tasks—from data quality validation and historical pattern analysis to security auditing.
 
-[![Live](https://img.shields.io/badge/🟢_LIVE-market--eye.duckdns.org-4ade80?style=for-the-badge)](https://market-eye.duckdns.org)
+- The Data: 7 real-time API streams (finance, cyber IOCs, NASA thermal anomalies, etc.) paired with an autonomous AI agent proactively scraping breaking global news.
 
+- The Stack: Deployed on an AWS EC2 instance, wired up with Next.js, Nginx, PM2, and TimescaleDB for the heavy time-series lifting.
+
+[![Live](https://img.shields.io/badge/🟢_LIVE-market--eye.duckdns.org-4ade80?style=for-the-badge)](https://globalwatch.debojyotidas.com)
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![CrewAI](https://img.shields.io/badge/Crew_AI-e8b84b?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="45%" valign="top">
+
+### 🟢 &nbsp;A serverless platform to generate deployable MCP
+> **MCP GENERATOR · Live**
+
+- Frontend: React + Amazon S3 + CloudFront + ACM SSL
+- Backend: API Gateway + AWS Lamda (Python 3.12, ARM64)
+- Data: DynamoDB (metadata) + S3 (artifect storage)
+
+AI Layer: Nvdia NIM reasoning engine with GPT-OSS-120B model which utilizes Chain-of-Thought planning to verify logic and SDK syntax before writing code, significantly increasing reliability for agentic workflows
+
+[![Live](https://img.shields.io/badge/🟢_LIVE-market--eye.duckdns.org-4ade80?style=for-the-badge)](https://mcp-generator.debojyotidas.com)
 ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/Crew_AI-e8b84b?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -191,6 +210,20 @@ End-to-end delivery across **HR, EHS, Procurement, Finance, Supply Chain & Ops**
 ![Scale](https://img.shields.io/badge/30%2B_Apps-Production-c8962a?style=flat-square)
 ![Users](https://img.shields.io/badge/500%2B_Enterprise_Users-a8c4e8?style=flat-square)
 
+### 🟢 &nbsp;Professional Portfolio Site
+> **PERSONAL PORTFOLIO · Live**
+
+- Self-hosted on AWS EC2 with Nginx and SSL security.
+- Glassmorphism design with particle animation and full responsive layout.
+
+[![Live](https://img.shields.io/badge/🟢_LIVE-market--eye.duckdns.org-4ade80?style=for-the-badge)](https://debojyotidas.com)
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![CrewAI](https://img.shields.io/badge/Crew_AI-e8b84b?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="45%" valign="top">
+
 </td>
 </tr>
 </table>
@@ -229,8 +262,6 @@ End-to-end delivery across **HR, EHS, Procurement, Finance, Supply Chain & Ops**
 
 <div align="center">
 
-**Actively seeking AI Architect · Solution Architect · Cloud Architect roles across the EU — 2026**
-
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-debojyotids854@gmail.com-e8b84b?style=for-the-badge&logo=gmail&logoColor=000)](mailto:debojyotids854@gmail.com)
@@ -239,16 +270,7 @@ End-to-end delivery across **HR, EHS, Procurement, Finance, Supply Chain & Ops**
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-e8b84b?style=for-the-badge&logo=firefox&logoColor=000)](https://debojyotidas.com)
 
-<br/>
 
-![Dublin](https://img.shields.io/badge/🇮🇪_Dublin-Open-c8962a?style=flat-square)
-![Amsterdam](https://img.shields.io/badge/🇳🇱_Amsterdam-Open-c8962a?style=flat-square)
-![Madrid](https://img.shields.io/badge/🇪🇸_Madrid-Open-c8962a?style=flat-square)
-![Germany](https://img.shields.io/badge/🇩🇪_Germany-Open-c8962a?style=flat-square)
-
-<br/>
-
-<sub>🔑 EU Work Authorisation Ready &nbsp;·&nbsp; NL Knowledge Migrant Eligible &nbsp;·&nbsp; Ireland Critical Skills Permit Eligible</sub>
 
 <br/><br/>
 
