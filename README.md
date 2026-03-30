@@ -15,8 +15,8 @@
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-debojyotidas.com-e8b84b?style=for-the-badge&logo=firefox&logoColor=000)](https://debojyotidas.com)
 &nbsp;
-[![Live AI](https://img.shields.io/badge/🟢_Live_AI-market--eye-4ade80?style=for-the-badge)](https://globalwatch.debojyotidas.com)
-[![Live AI](https://img.shields.io/badge/🟢_Live_AI-market--eye-4ade80?style=for-the-badge)](https://mcp-generator.debojyotidas.com)
+[![Live AI](https://img.shields.io/badge/🟢_Live_AI-global--watch-4ade80?style=for-the-badge)](https://globalwatch.debojyotidas.com)
+[![Live AI](https://img.shields.io/badge/🟢_Live_AI-mcp--generator-4ade80?style=for-the-badge)](https://mcp-generator.debojyotidas.com)
 </div>
 
 ---
@@ -152,9 +152,9 @@ architect = {
 
 - The Stack: Deployed on an AWS EC2 instance, wired up with Next.js, Nginx, PM2, and TimescaleDB for the heavy time-series lifting.
 
-[![Live](https://img.shields.io/badge/🟢_LIVE-globalwatch.debojyotidas.com-4ade80?style=for-the-badge)](https://globalwatch.debojyotidas.com)
+[![Live](https://img.shields.io/badge/🟢_Live_AI-global--watch-4ade80?style=for-the-badge)](https://globalwatch.debojyotidas.com)
 ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![OPEN CLAW](https://img.shields.io/badge/Crew_AI-e8b84b?style=flat-square)
+![OPEN CLAW](https://img.shields.io/badge/OPEN_CLAW-e8b84b?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
@@ -169,9 +169,9 @@ architect = {
 
 AI Layer: Nvdia NIM reasoning engine with GPT-OSS-120B model which utilizes Chain-of-Thought planning to verify logic and SDK syntax before writing code, significantly increasing reliability for agentic workflows
 
-[![Live](https://img.shields.io/badge/🟢_LIVE-mcp-generator.debojyotidas.com-4ade80?style=for-the-badge)](https://mcp-generator.debojyotidas.com)
+[![Live](https://img.shields.io/badge/🟢_Live_AI-mcp--generator-4ade80?style=for-the-badge)](https://mcp-generator.debojyotidas.com)
 ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![REACT](https://img.shields.io/badge/Crew_AI-e8b84b?style=flat-square)
+![REACT](https://img.shields.io/badge/REACT-e8b84b?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
