@@ -26,7 +26,7 @@ Currently at **BASF**, leading AI and cloud digitalization programs across Europ
 ## 🚀 Products I've Built
 
 ### 🧠 [NextGen Agentic RAG](https://github.com/debinkl2/NextGen-Agentic-Compressed-RAG)
-A production-grade AI knowledge retrieval product. Multi-hop reasoning, contradiction detection, citation grounding — built to solve enterprise knowledge management at scale.
+An AI knowledge retrieval product. Multi-hop reasoning, contradiction detection, citation grounding — built to solve enterprise knowledge management at scale.
 
 📄 [White Paper](https://drive.google.com/file/d/1V7Zp4aasW7BFKoenoqaoCQHPb_bZlnAl/view?usp=sharing) · 🎥 [Product Demo](https://lnkd.in/p/gGN4ErAQ)
 
